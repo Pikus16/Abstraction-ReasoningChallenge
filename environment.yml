@@ -1,0 +1,13 @@
+---
+name: arc
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - nb_conda
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - tensorflow>=2.1
