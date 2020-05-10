@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - opencv
   - jupyter
   - nb_conda
   - matplotlib
